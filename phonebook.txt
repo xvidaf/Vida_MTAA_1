@@ -300,3 +300,330 @@ INFO:root:2022-02-25 11:19:14.788399 Client address: 192.168.0.188:59684 is tryi
 INFO:root:2022-02-25 11:20:04.700513 Client address: 192.168.0.109:61489 is trying to register
 INFO:root:2022-02-25 11:20:08.799360 Client address: 192.168.0.188:59684 is trying to register
 INFO:root:2022-02-25 11:20:10.578742 Filip2@192.168.0.188:5060 is calling FilipPC@192.168.0.188:5060
+INFO:root:2022-02-25 15:47:32.740892 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:47:44.744779 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 15:47:44.747925 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 15:47:47.873627 Client address: 192.168.0.109:34021 is trying to register
+INFO:root:2022-02-25 15:47:55.708113 Client address: 192.168.0.109:39544 is trying to register
+INFO:root:2022-02-25 15:48:03.958157 FilipPC@192.168.0.188:5060 is calling Filip2@192.168.0.188:5060
+INFO:root:2022-02-25 15:48:26.871088 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:48:32.636704 Filip2@192.168.0.188:5060 is hanging up an accepted call
+INFO:root:2022-02-25 15:48:38.770085 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 15:49:20.877838 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:50:14.885839 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:51:08.902263 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:52:02.916823 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:52:56.923895 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:53:50.938500 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:54:44.947349 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:55:38.958630 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:56:32.970519 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:57:26.988353 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:58:21.006180 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 15:58:53.012578 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 15:59:15.019197 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:00:09.032996 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:00:59.433186 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:01:03.038738 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:01:09.667935 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:01:21.105013 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 16:01:53.384507 Filip2@192.168.0.188:5060 is calling Mobil2@192.168.0.188:5060
+INFO:root:2022-02-25 16:01:57.053826 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:02:03.718871 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:02:15.131618 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 16:02:51.059127 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:02:57.751073 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:03:09.634368 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 16:03:10.272356 Client address: 192.168.0.109:38908 is trying to register
+INFO:root:2022-02-25 16:03:10.960771 Mobil2@192.168.0.188 is calling Filip2@192.168.0.188
+INFO:root:2022-02-25 16:03:28.496328 Mobil2@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-25 16:03:39.487706 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-25 16:03:45.067940 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:03:51.764440 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:04:03.677734 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 16:04:29.802829 FilipMobil@192.168.0.188 is hanging up an accepted call
+INFO:root:2022-02-25 16:04:39.081586 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:04:45.819982 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:05:33.087332 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:05:39.850454 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:05:55.572411 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 16:05:59.200031 Mobil2@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-25 16:05:59.721587 Mobil2@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-25 16:06:13.190729 FilipMobil@192.168.0.188 is hanging up before the call starts
+INFO:root:2022-02-25 16:06:27.105039 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:06:53.226242 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:07:21.112264 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:08:04.608982 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:08:15.131547 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:09:04.999744 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:09:09.147553 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:10:03.170135 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:10:15.433412 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:10:57.188069 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:11:39.549174 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:11:51.205789 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:12:45.218314 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:13:31.444665 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:13:39.231589 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:14:33.247602 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:14:39.507709 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:15:27.260593 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:15:40.432562 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:16:21.269006 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:16:39.743334 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:17:15.288782 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:18:08.207798 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:18:09.300483 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:18:29.553600 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:19:03.317672 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:19:57.334426 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:20:16.838499 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 16:20:17.981505 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:20:27.349027 Mobil2@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-25 16:20:30.284977 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-25 16:20:38.824806 Client address: 192.168.0.108:47602 is trying to register
+INFO:root:2022-02-25 16:20:51.352675 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:21:05.118318 PatrikMobil@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-25 16:21:11.317266 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-25 16:21:12.033139 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:21:13.195382 PatrikMobil@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-25 16:21:13.277565 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-25 16:21:25.561131 PatrikMobil@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-25 16:21:28.657659 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-25 16:21:30.836466 PatrikMobil@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-25 16:21:30.925149 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-25 16:21:40.672896 FilipMobil@192.168.0.188 is hanging up an accepted call
+INFO:root:2022-02-25 16:21:40.916996 PatrikMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-25 16:21:45.367466 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:22:06.081955 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:22:39.377300 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:23:09.793671 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:23:33.385574 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:24:10.280923 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:24:27.400587 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:25:10.412805 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:25:21.415093 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:26:15.425823 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:26:27.020948 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:27:09.439974 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:28:03.445814 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:28:57.453832 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:29:51.474457 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:30:45.493569 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:31:39.504215 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:32:33.521382 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:33:27.534441 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:34:13.942131 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:34:21.547216 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:35:14.096648 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:35:15.551871 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:36:09.563060 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:36:14.542839 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:37:03.582864 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:37:08.609335 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:37:57.593375 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:38:51.599116 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:39:45.615660 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:40:39.619914 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:41:03.450462 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:41:33.630612 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:42:16.346366 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:42:27.638905 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:43:16.762680 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:43:21.654107 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:44:15.664488 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:44:17.138484 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:45:09.673345 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:45:17.885680 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:46:03.690786 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:46:18.082701 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:46:57.703615 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:47:18.405763 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:47:51.713020 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:48:18.526848 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:48:45.720010 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:49:18.904126 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:49:39.736851 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:50:15.404687 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:50:33.746811 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:51:19.982124 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:51:27.761313 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:52:20.067185 Client address: 192.168.0.108:54822 is trying to register
+INFO:root:2022-02-25 16:52:21.780530 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:53:15.790341 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:54:09.810209 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:55:03.830779 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:55:57.845248 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:56:51.858551 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:57:45.867311 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:58:38.726795 Client address: 192.168.0.109:38908 is trying to register
+INFO:root:2022-02-25 16:58:39.991539 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:59:34.001102 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 16:59:35.637300 FilipMobil@192.168.0.188 is calling FilipPc@192.168.0.188
+INFO:root:2022-02-25 16:59:51.658484 FilipPC@192.168.0.188:5060 is calling Filip2@192.168.0.188:5060
+WARNING:root:registration for Filip2@192.168.0.188:5060 has expired
+INFO:root:2022-02-25 17:00:03.194449 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 17:00:28.021195 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 17:00:57.209044 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 17:01:02.029675 Filip2@192.168.0.188:5060 is calling FilipPC@192.168.0.188:5060
+INFO:root:2022-02-25 17:01:22.035799 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-25 17:01:27.363719 FilipPC@192.168.0.188:5060 is hanging up an accepted call
+INFO:root:2022-02-25 17:02:03.385958 Client address: 192.168.0.109:42198 is trying to register
+INFO:root:2022-02-25 17:02:16.051481 Client address: 192.168.0.188:49154 is trying to register
+INFO:root:2022-02-27 09:20:59.346869 Client address: 192.168.0.188:61205 is trying to register
+INFO:root:2022-02-27 09:21:10.826479 Client address: 192.168.0.109:55853 is trying to register
+INFO:root:2022-02-27 09:21:17.626041 FilipMobil@192.168.0.188 is calling FilipPc@192.168.0.188
+INFO:root:2022-02-27 09:21:21.425158 FilipPc@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:21:52.409436 FilipMobil@192.168.0.188 is hanging up an accepted call
+INFO:root:2022-02-27 09:22:57.398274 FilipPc@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-27 09:22:59.372883 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:23:13.716826 FilipMobil@192.168.0.188 is hanging up an accepted call
+INFO:root:2022-02-27 09:23:18.028044 FilipMobil@192.168.0.188 is calling FilipPc@192.168.0.188
+INFO:root:2022-02-27 09:23:21.533466 FilipPc@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:23:33.377684 FilipPc@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-27 09:23:36.633793 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:23:36.709296 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:23:45.617300 FilipPc@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-27 09:23:46.534770 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:23:46.592377 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:23:52.431988 FilipMobil@192.168.0.188 is calling FilipPc@192.168.0.188
+INFO:root:2022-02-27 09:23:52.566296 FilipPc@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:23:53.872124 FilipMobil@192.168.0.188 is hanging up an accepted call
+INFO:root:2022-02-27 09:29:59.999619 Client address: 192.168.0.188:61205 is trying to register
+INFO:root:2022-02-27 09:39:00.028244 Client address: 192.168.0.188:61205 is trying to register
+INFO:root:2022-02-27 09:46:29.171077 Client address: 192.168.0.188:51401 is trying to register
+INFO:root:2022-02-27 09:46:29.172073 Client address: 192.168.0.188:51401 is trying to register
+INFO:root:2022-02-27 09:46:53.741935 Client address: 192.168.0.188:51401 is trying to register
+INFO:root:2022-02-27 09:47:05.687260 FilipPc@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:47:14.919351 Client address: 192.168.0.109:55853 is trying to register
+INFO:root:2022-02-27 09:47:14.963572 Client address: 192.168.0.109:55853 is trying to register
+INFO:root:2022-02-27 09:47:17.560482 Client address: 192.168.0.109:55853 is trying to register
+INFO:root:2022-02-27 09:47:22.742348 FilipMobil@192.168.0.188 is calling FilipPc@192.168.0.188
+INFO:root:2022-02-27 09:47:27.369735 FilipPc@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:47:54.069312 FilipPc@192.168.0.188 is calling FilipMobil@192.168.0.188
+INFO:root:2022-02-27 09:47:57.315504 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:47:57.381795 FilipMobil@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:48:10.660329 FilipMobil@192.168.0.188 is calling FilipPc@192.168.0.188
+INFO:root:2022-02-27 09:48:11.434061 FilipPc@192.168.0.188 is accepting the call
+INFO:root:2022-02-27 09:48:12.849730 FilipMobil@192.168.0.188 is hanging up an accepted call
+INFO:root:2022-02-28 13:47:10.154221 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 13:47:23.000196 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 13:47:23.006796 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 13:47:29.904336 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 13:53:46.439994 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 13:54:23.357062 FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 13:54:28.711298 FilipPc@192.168.0.227 is hanging up before the call starts
+INFO:root:2022-02-28 13:54:28.783519 FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 13:56:52.600037 FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 13:56:59.942807 FilipPc@192.168.0.227 is hanging up before the call starts
+INFO:root:2022-02-28 13:56:59.982520 FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:02:46.607544 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:03:08.054333 FilipPc@192.168.0.227 is accepting the call<re.Match object; span=(0, 19), match='Call-ID: 36OVzmUfGI'>
+INFO:root:2022-02-28 14:03:11.185444 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 14:03:15.744652 FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:03:15.769452 FilipPc@192.168.0.227 is accepting the call<re.Match object; span=(0, 19), match='Call-ID: E3jMFLeU2o'>
+INFO:root:2022-02-28 14:03:20.689172 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 14:03:21.673299 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 14:03:22.629844 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 14:03:27.836040 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:03:32.171784 FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:03:36.380366 FilipPc@192.168.0.227 is accepting the call<re.Match object; span=(0, 19), match='Call-ID: hhPVNvsCOI'>
+INFO:root:2022-02-28 14:03:53.231271 FilipMobil@192.168.0.227 is hanging up an accepted call<re.Match object; span=(0, 19), match='Call-ID: hhPVNvsCOI'>
+INFO:root:2022-02-28 14:09:06.903173 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 14:09:18.220675 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:09:22.279072 FilipPc@192.168.0.227 is hanging up before the call startsBSuxbSgN~P
+INFO:root:2022-02-28 14:09:22.279072 FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:09:30.279763 FilipPc@192.168.0.227 is accepting the callCall-ID: BSuxbSgN~P
+INFO:root:2022-02-28 14:09:35.042570 FilipPc@192.168.0.227 is hanging up an accepted callCall-ID: BSuxbSgN~P
+INFO:root:2022-02-28 14:09:38.763525 FilipPc@192.168.0.227 is hanging up before the call startshhz2iJRiR7
+INFO:root:2022-02-28 14:09:38.763525 FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:09:43.630388 FilipPc@192.168.0.227 is hanging up before the call startshhz2iJRiR7
+INFO:root:2022-02-28 14:09:43.650494 FilipPc@192.168.0.227 is accepting the callCall-ID: hhz2iJRiR7
+INFO:root:2022-02-28 14:14:28.542711 Call ID:Call-ID: UgwjkiM-T2 FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:14:31.767792 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:14:35.817762 Call ID:Call-ID: 0mNz8bxJ9z FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:14:41.098204 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 14:14:43.513453 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:14:51.264429 Call ID:eT78pOl~tV FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:15:02.058289 Call ID:Call-ID: eT78pOl~tV FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:15:19.674922 Call ID:Call-ID: eT78pOl~tV FilipPc@192.168.0.227 is hanging up an accepted call
+INFO:root:2022-02-28 14:15:22.458219 Call ID:1~t9lCr5bY FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:15:26.456393 Call ID:1~t9lCr5bY FilipPc@192.168.0.227 is hanging up before the call starts
+INFO:root:2022-02-28 14:15:26.575463 Call ID:Call-ID: 1~t9lCr5bY FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:17:01.707187 Call ID:Call-ID: w4NhBc~FNT FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:17:06.786126 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 14:17:10.300984 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:17:13.997850 Call ID:uOOYL22wju FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:17:18.139609 Call ID:Call-ID: uOOYL22wju FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:17:27.916100 Call ID:Call-ID: uOOYL22wju FilipMobil@192.168.0.227 is hanging up an accepted call
+INFO:root:2022-02-28 14:17:36.110237 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:17:39.932823 Call ID:0V98gq2jme FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:17:42.273018 Call ID:Call-ID: 0V98gq2jme FilipPc@192.168.0.227 is hanging up before the call starts
+INFO:root:2022-02-28 14:17:42.362287 Call ID:Call-ID: 0V98gq2jme FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:22:57.364073 Call ID:Cb0SEJvUiS FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:23:03.327501 Call ID:Call-ID: Cb0SEJvUiS FilipPc@192.168.0.227 is hanging up before the call starts
+INFO:root:2022-02-28 14:23:03.396234 Call ID:Call-ID: Cb0SEJvUiS FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:24:46.505141 Call-ID: EYnSWc-qfU FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:24:53.109388 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:24:56.555261 Call-ID: EtBqLjppz5 FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:24:58.124307 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 14:24:59.283191 Call-ID: jCQwSk6duQ FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:25:01.293667 Call-ID: jCQwSk6duQ FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:25:02.900434 Call-ID: jCQwSk6duQ FilipPc@192.168.0.227 is hanging up an accepted call
+INFO:root:2022-02-28 14:29:05.304611 Client address: 192.168.0.18:33760 is trying to register
+INFO:root:2022-02-28 14:29:07.771340 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:29:11.929433 Call-ID: aoR0BxEup6 FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:29:16.186437 Call-ID: aoR0BxEup6 FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:29:16.194225 Call-ID: aoR0BxEup6 FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:29:28.544985 Call-ID: aoR0BxEup6 FilipPc@192.168.0.227 is hanging up an accepted call
+INFO:root:2022-02-28 14:29:36.510362 Call-ID: 1FIVnV3fNP FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:29:43.203298 Call-ID: 1FIVnV3fNP FilipPc@192.168.0.227 is accepting the call
+INFO:root:2022-02-28 14:29:49.894322 Call-ID: 1FIVnV3fNP FilipMobil@192.168.0.227 is hanging up an accepted call
+INFO:root:2022-02-28 14:30:00.032634 Call-ID: -3aefKGITz FilipMobil@192.168.0.227 is calling FilipPc@192.168.0.227
+INFO:root:2022-02-28 14:30:05.657700 Call-ID: -3aefKGITz FilipPc@192.168.0.227 is hanging up before the call starts
+INFO:root:2022-02-28 14:31:15.889192 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:32:09.931757 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:32:46.841686 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:32:57.763757 Call-ID: WHrtcKUjeSEuUBXQvrD-0w.. Filip2@192.168.0.227:5060 is calling FilipPC@192.168.0.227:5060
+INFO:root:2022-02-28 14:33:03.936961 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:33:26.224220 Call-ID: WHrtcKUjeSEuUBXQvrD-0w.. Filip2@192.168.0.227:5060 is hanging up an accepted call
+INFO:root:2022-02-28 14:33:40.878070 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:33:57.950301 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:34:51.957772 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:35:16.684521 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:35:20.830652 Call-ID: rBn6cyr8jpeKJ4yO07c62w.. Filip2@192.168.0.227:5060 is calling FilipPC@192.168.0.227:5060
+INFO:root:2022-02-28 14:35:29.891671 Call-ID: rBn6cyr8jpeKJ4yO07c62w.. FilipPC@192.168.0.227:5060 is accepting the call
+INFO:root:2022-02-28 14:35:45.974356 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:35:46.084388 Client address: 192.168.0.18:38415 is trying to register
+INFO:root:2022-02-28 14:35:48.517228 Call-ID: ThXu7wSDBzeNNmw4P_0dXQ.. Filip2@192.168.0.227:5060 is calling FilipPC@192.168.0.227:5060
+INFO:root:2022-02-28 14:35:55.034300 Call-ID: ThXu7wSDBzeNNmw4P_0dXQ.. FilipPC@192.168.0.227:5060 is accepting the call
+INFO:root:2022-02-28 14:36:10.738847 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:36:31.311155 Call-ID: yMy1ggndVsMuIEKjsPsIsw.. Filip2@192.168.0.227:5060 is calling FilipPC@192.168.0.227:5060
+INFO:root:2022-02-28 14:36:37.167637 Call-ID: yMy1ggndVsMuIEKjsPsIsw.. FilipPC@192.168.0.227:5060 is accepting the call
+INFO:root:2022-02-28 14:36:39.987387 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:37:09.094622 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:37:34.004939 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:38:07.789831 Client address: 192.168.0.227:56526 is trying to register
+INFO:root:2022-02-28 14:38:28.058914 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:39:31.174403 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:39:31.724084 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:39:42.241218 Call-ID: d1hbV5JDXkMQLJvfoLRufA.. Filip2@192.168.0.227:5060 is calling FilipPC@192.168.0.227:5060
+INFO:root:2022-02-28 14:39:54.173286 Call-ID: 3JnyBSsmt-xjysLiHBwafQ.. FilipPC@192.168.0.227:5060 is calling Filip2@192.168.0.227:5060
+INFO:root:2022-02-28 14:39:58.430809 Call-ID: 3JnyBSsmt-xjysLiHBwafQ.. Filip2@192.168.0.227:5060 is accepting the call
+INFO:root:2022-02-28 14:40:07.869649 Call-ID: d1hbV5JDXkMQLJvfoLRufA.. Filip2@192.168.0.227:5060 is hanging up an accepted call
+INFO:root:2022-02-28 14:40:21.764621 Call-ID: DjviDBfuEfBVmBcAU0F_gg.. Filip2@192.168.0.227:5060 is calling FilipPC@192.168.0.227:5060
+INFO:root:2022-02-28 14:40:24.747155 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:40:25.731452 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:40:27.563577 Client address: 192.168.0.227:57073 is trying to register
+INFO:root:2022-02-28 14:40:29.547878 Call-ID: DjviDBfuEfBVmBcAU0F_gg.. FilipPC@192.168.0.227:5060 did not pick up, or hang up before accepting the call (zoiper)
+INFO:root:2022-02-28 14:40:29.611907 Call-ID: DjviDBfuEfBVmBcAU0F_gg.. FilipPC@192.168.0.227:5060 is accepting the call
+INFO:root:2022-02-28 14:41:19.741003 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:41:46.882600 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:41:54.852496 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:41:58.967604 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:42:00.456966 Call-ID: dQaRuDPgfuAYStrw110Eog.. Filip2@192.168.0.227:5060 is calling FilipPC@192.168.0.227:5060
+INFO:root:2022-02-28 14:42:13.224861 Call-ID: YRhpolcf8KheBYdFdfwjxQ.. Filip2@192.168.0.227:5060 is calling FilipPC@192.168.0.227:5060
+INFO:root:2022-02-28 14:42:13.747228 Client address: 192.168.0.227:58824 is trying to register
+INFO:root:2022-02-28 14:42:21.012746 Client address: 192.168.0.18:51525 is trying to register
+INFO:root:2022-02-28 14:42:23.108582 Call-ID: ZiOAkERHfZAoPo8nP3whMw.. Filip2@192.168.0.227:5060 is calling FilipPC@192.168.0.227:5060
+INFO:root:2022-02-28 14:42:31.066583 Call-ID: ZiOAkERHfZAoPo8nP3whMw.. FilipPC@192.168.0.227:5060 did not pick up, or hang up before accepting the call (zoiper)

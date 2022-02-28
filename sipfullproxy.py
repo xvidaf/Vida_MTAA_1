@@ -53,7 +53,7 @@ rx_code = re.compile("^SIP/2.0 ([^ ]*)")
 #rx_invalid = re.compile("^192\.168")
 #rx_invalid2 = re.compile("^10\.")
 #rx_cseq = re.compile("^CSeq:")
-#rx_callid = re.compile("Call-ID: (.*)$")
+rx_callid = re.compile("Call-ID: (.*)$")
 #rx_rr = re.compile("^Record-Route:")
 rx_request_uri = re.compile("^([^ ]*) sip:([^ ]*) SIP/2.0")
 rx_route = re.compile("^Route:")
@@ -68,6 +68,7 @@ rx_expires = re.compile("^Expires: (.*)$")
 #Regex for logging book
 rx_decline = re.compile('Decline')
 rx_ok = re.compile('Ok')
+rx_busy = re.compile('Busy Here')
 
 # global dictionnary
 recordroute = ""
@@ -282,7 +283,11 @@ class UDPHandler(SocketServer.BaseRequestHandler):
             return
         destination = self.getDestination()
         if len(destination) > 0:
-            logging.info(str(datetime.now()) + " " +origin + " is calling " + destination)
+            callID = ""
+            for line in self.data:
+                if rx_callid.search(line):
+                    callID = rx_callid.search(line)
+            logging.info(str(datetime.now()) + " " + str(callID[0]) + " " + origin + " is calling " + destination)
             logging.debug("destination %s" % destination)
             if destination in registrar and self.checkValidity(destination):
                 socket,claddr = self.getSocketInfo(destination)
@@ -367,22 +372,41 @@ class UDPHandler(SocketServer.BaseRequestHandler):
     def processRequest(self):
         #print "processRequest"
         if len(self.data) > 0:
+            callID = ""
             request_uri = self.data[0]
             #print(request_uri)
             #For logging book
             if rx_decline.search(request_uri):
-                logging.info(str(datetime.now()) + " " + self.getDestination() + " is hanging up before the call starts")
-            elif rx_ok.search(request_uri):
-                logging.info(str(datetime.now()) + " " + self.getDestination() + " is accepting the call")
-
+                for line in self.data:
+                    if rx_callid.search(line):
+                        callID = rx_callid.search(line)
+                logging.info(str(datetime.now()) + " " + str(callID[0]) + " " + self.getDestination() + " is hanging up before the call starts")
+            #elif rx_ok.search(request_uri):
+                #logging.info(str(datetime.now()) + " " + self.getDestination() + " is accepting the call")
+            elif rx_busy.search(request_uri):
+                for line in self.data:
+                    if rx_callid.search(line):
+                        callID = rx_callid.search(line)
+                logging.info(str(datetime.now()) + " " + str(callID[0]) + " " + self.getDestination() + " did not pick up, or hang up before accepting the call (zoiper)")
             if rx_register.search(request_uri):
                 self.processRegister()
             elif rx_invite.search(request_uri):
                 self.processInvite()
             elif rx_ack.search(request_uri):
+                accept = False
+                for line in self.data:
+                    if rx_callid.search(line):
+                        callID = rx_callid.search(line)
+                    if rx_route.search(line):
+                        accept = True
+                if accept:
+                    logging.info(str(datetime.now()) + " " + str(callID[0]) + " " + self.getDestination() + " is accepting the call")
                 self.processAck()
             elif rx_bye.search(request_uri):
-                logging.info(str(datetime.now()) + " " + self.getOrigin() + " is hanging up an accepted call")
+                for line in self.data:
+                    if rx_callid.search(line):
+                        callID = rx_callid.search(line)
+                logging.info(str(datetime.now()) + " " + str(callID[0]) + " " + self.getOrigin() + " is hanging up an accepted call")
                 self.processNonInvite()
             elif rx_cancel.search(request_uri):
                 self.processNonInvite()
